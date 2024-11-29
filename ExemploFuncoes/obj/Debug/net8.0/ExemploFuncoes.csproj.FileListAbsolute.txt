@@ -1,0 +1,14 @@
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.AssemblyInfoInputs.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.AssemblyInfo.cs
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.exe
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.deps.json
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.runtimeconfig.json
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\bin\Debug\net8.0\ExemploFuncoes.pdb
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\refint\ExemploFuncoes.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.pdb
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ExemploFuncoes.genruntimeconfig.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\ExemploFuncoes\obj\Debug\net8.0\ref\ExemploFuncoes.dll

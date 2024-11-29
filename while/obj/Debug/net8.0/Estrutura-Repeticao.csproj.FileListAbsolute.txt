@@ -1,0 +1,14 @@
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\bin\Debug\net8.0\Estrutura-Repeticao.exe
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\bin\Debug\net8.0\Estrutura-Repeticao.deps.json
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\bin\Debug\net8.0\Estrutura-Repeticao.runtimeconfig.json
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\bin\Debug\net8.0\Estrutura-Repeticao.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\bin\Debug\net8.0\Estrutura-Repeticao.pdb
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\Estrutura-Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\Estrutura-Repeticao.AssemblyInfoInputs.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\Estrutura-Repeticao.AssemblyInfo.cs
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\Estrutura-Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\Estrutura-Repeticao.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\refint\Estrutura-Repeticao.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\Estrutura-Repeticao.pdb
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\Estrutura-Repeticao.genruntimeconfig.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\Estrutura-repeticao\obj\Debug\net8.0\ref\Estrutura-Repeticao.dll

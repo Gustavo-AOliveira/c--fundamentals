@@ -1,0 +1,14 @@
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.exe
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.deps.json
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.dll
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.pdb
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.dll
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\refint\PrimeiroPrograma.dll
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.pdb
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\PrimeiroPrograma\obj\Debug\net8.0\ref\PrimeiroPrograma.dll

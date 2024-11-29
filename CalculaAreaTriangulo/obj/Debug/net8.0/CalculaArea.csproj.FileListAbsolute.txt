@@ -1,0 +1,28 @@
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.AssemblyInfoInputs.cache
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.AssemblyInfo.cs
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.exe
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.deps.json
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.runtimeconfig.json
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.dll
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.pdb
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.dll
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\refint\CalculaArea.dll
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.pdb
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.genruntimeconfig.cache
+C:\Users\Gusta\Documents\IDEsProjects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\ref\CalculaArea.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.exe
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.deps.json
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.runtimeconfig.json
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\bin\Debug\net8.0\CalculaArea.pdb
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.AssemblyInfoInputs.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.AssemblyInfo.cs
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\refint\CalculaArea.dll
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.pdb
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\CalculaArea.genruntimeconfig.cache
+C:\Users\Gusta\Documents\VsCode Projects\Csharp\Algoritmos1\CalculaAreaTriangulo\obj\Debug\net8.0\ref\CalculaArea.dll
